@@ -23,8 +23,7 @@ function Contact() {
                 carrental@carmail.com
               </a>
               <a href="/">
-                <i className="fa-solid fa-location-dot"></i>&nbsp; Belgrade,
-                Serbia
+                <i className="fa-solid fa-location-dot"></i>&nbsp; Baton Rouge, Lousiana
               </a>
             </div>
             <div className="contact-div__form">
@@ -37,7 +36,7 @@ function Contact() {
                 <label>
                   Email <b>*</b>
                 </label>
-                <input type="email" placeholder="youremail@example.com"></input>
+                <input type="email" placeholder="your-email@example.com"></input>
 
                 <label>
                   Tell us about it <b>*</b>
