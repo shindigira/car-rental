@@ -8,7 +8,7 @@
   </h3>
  <br />
  
- ### Click here for live demo   <a href="https://e4b5a714.vehicle-rental.pages.dev/">Car Rental</a>
+ ### Click here for live demo   <a href="https://car-rental-dun.vercel.app/">Car Rental</a>
 
 </p>
 
