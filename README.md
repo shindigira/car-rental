@@ -8,4 +8,3 @@
 
 » Sass / Scss <br>
 » React JS
-# vehicle-rental
